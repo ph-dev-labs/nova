@@ -21,7 +21,7 @@ const PrivacyPolicy = () => {
                     <li className="list-none">a. {" "}<strong>Personal information:</strong> Name, address, phone number, and billing information when customers subscribe to our services.</li>
                     <li>Username, password, and other login credentials.</li>
                     <li>Email address.</li>
-                    <li>Credit card information for purchasing products from NovaCrust "without card".</li>
+                    <li>Credit card information for purchasing products from NovaCrust {"without card"}.</li>
                 </ul>
 
                 <ul className="list-disc list-inside text-[#000E10]  text-sm font-bold mb-6">

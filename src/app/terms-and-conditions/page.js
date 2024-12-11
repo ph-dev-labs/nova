@@ -18,9 +18,9 @@ const PrivacyPolicy = () => {
                 <p className="text-[#000E10] font-bold mt-12 mb-10">These Terms and Conditions govern your use of Novacrust services, a product of Prosharbiz LLC, incorporated in Delaware. By accessing or using Novacrust, you agree to comply with these terms. Please read them carefully.</p>
                 <h2 className="text-xl font-bold mb-3 text-[#000E10]">1. Definitions</h2>
                 <ul className="list-disc list-inside text-[#000E10]  text-sm font-bold mb-6">
-                    "Novacrust" refers to the cross-border payment platform operated by Prosharbiz LLC.
-                    "User" or "You" refers to anyone using Novacrust services.
-                    "Services" includes creating, funding, and using Novacrust virtual cards.
+                    {"Novacrust"} refers to the cross-border payment platform operated by Prosharbiz LLC.
+                    {"User"} or {"You"} refers to anyone using Novacrust services.
+                    {"Services"} includes creating, funding, and using Novacrust virtual cards.
                 </ul>
                 <h2 className="text-xl font-bold mb-3 text-[#000E10]">2. Eligibility</h2>
                 <p className="text-[#000E10]  text-sm font-bold mb-6">You must be at least 18 years old or the age of majority in your jurisdiction to use our services. By registering, you represent that all information provided is accurate and truthful.</p>
