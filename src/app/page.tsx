@@ -162,12 +162,30 @@ export default function LandingPage() {
             Frequently Asked Questions
           </h2>
           <div className="py-4 space-y-6">
-            <FAQCard text="How can I use my Novacrust virtual card?" />
-            <FAQCard text="Is the Novacrust virtual card secure?" />
-            <FAQCard text="Can I top up my Novacrust card in local currency?" />
-            <FAQCard text="Does Novacrust work with all platforms?" />
-            <FAQCard text="How do I link my Novacrust card to Apple Pay or Google Pay?" />
-            <FAQCard text="How do I contact customer support?" />
+            <FAQCard
+              text="How can I use my Novacrust virtual card?"
+              content="You can use your Novacrust virtual card to shop online, pay for subscriptions, book travel, pay tuition, or make payments on platforms like Amazon, Netflix, Airbnb, and more. It also works with digital wallets like Apple Pay and Google Pay for seamless transactions."
+            />
+            <FAQCard
+              text="Is the Novacrust virtual card secure?"
+              content="Yes, our virtual cards are designed with advanced security features, including encryption and one-time card details for specific transactions. Your information is always protected against fraud and unauthorized access."
+            />
+            <FAQCard
+              text="Can I top up my Novacrust card in local currency?"
+              content="Yes, you can fund your Novacrust USD virtual card in your local currency. The amount will be automatically converted to U.S. dollars at the current exchange rate."
+            />
+            <FAQCard
+              text="Does Novacrust work with all platforms?"
+              content="While Novacrust cards are widely accepted, some platforms may have specific payment restrictions. Check the platform's payment options or contact our support team for assistance"
+            />
+            <FAQCard
+              text="How do I link my Novacrust card to Apple Pay or Google Pay?"
+              content="Simply add your Novacrust virtual card details to your digital wallet by following the wallet app's prompts. Once added, you can start making secure, contactless payments instantly."
+            />
+            <FAQCard
+              text="How do I contact customer support?"
+              content="Our support team is available 24/7 to assist you. Reach out to us via live chat, email, or the Help Center on our mobile app for quick solutions."
+            />
           </div>
         </div>
       </section>

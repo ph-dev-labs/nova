@@ -81,13 +81,13 @@ export default function CustomersSlide() {
           />
           <FeedbackCard
             imageUrl="/woman.jpg"
-            about="The interface is so easy to use, I was able to set up my virtual card in minutes. Everything is straightforward. No confusing menus, no unnecessary steps. Now, I can track my payments and manage subscriptions without stress. Novacrust feels like it was designed just for me."
-            name="Mary Obasi, Entrepreneur"
+            about="As a product designer working with international clients, managing payments was always a challenge. Novacrust Virtual Card changed that. I can now receive payments in dollars and pay for design tools and resources without any hassle"
+            name="Quadri Agboluaje, Product Designer"
           />
           <FeedbackCard
             imageUrl="/woman.jpg"
-            about="The interface is so easy to use, I was able to set up my virtual card in minutes. Everything is straightforward. No confusing menus, no unnecessary steps. Now, I can track my payments and manage subscriptions without stress. Novacrust feels like it was designed just for me."
-            name="Mary Obasi, Entrepreneur"
+            about="Paying for my online data analytics course seemed impossible with the restrictions on my local cards. With Novacrust, I paid seamlessly and even got a receipt instantly. Now, I’m one step closer to my dream career. All thanks to Novacrust virtual card."
+            name="Deborah Nkwocha, Data Analyst"
           />
         </Carousel>
       </div>
